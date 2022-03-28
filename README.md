@@ -1,1 +1,4 @@
-# cdi-02
+- # Cajero
+- ## Alumno: Tomas Vogel
+- ## curso: 4to 2da avionica 
+- ## colaboradores: Natanael Robaina y Vicente Seta
